@@ -2,6 +2,10 @@
 
 An MCP server that aggregates real-time cryptocurrency news from multiple RSS feeds, helping AI agents make informed decisions in a fast-paced market.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/crypto-rss-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/crypto-rss-mcp/badge" alt="crypto-rss-mcp MCP server" />
+</a>
+
 ![GitHub License](https://img.shields.io/github/license/kukapay/crypto-trending-mcp)
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
