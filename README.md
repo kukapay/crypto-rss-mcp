@@ -18,6 +18,10 @@ An MCP server that aggregates real-time cryptocurrency news from multiple RSS fe
 - **OPML Support**: Import feed list from a local OPML file provided by [Chainfeeds](https://raw.githubusercontent.com/chainfeeds/RSSAggregatorforWeb3/main/RAW.opml).
 - **LLM Integration**: Includes a prompt for analyzing feed content to summarize key points and identify cryptocurrency market trends.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-crypto-rss-mcp).
+
 ## Prerequisites
 
 - **Python**: Version 3.10.
